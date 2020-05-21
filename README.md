@@ -63,3 +63,29 @@ To run this example box, you will need and account address on every RSK network.
 ### Setup the gas price
 
 ### Connect to RSK
+
+### Running migrations on testnet
+
+## Running the app
+
+### Install dependencies
+
+Go to the `app` folder.
+
+```bash
+$ cd app
+```
+
+Install dependencies
+
+```bash
+$ npm i
+```
+
+### Run the lite server
+
+This will open a new tab in your browser.
+
+```bash
+$ npm run dev
+```
