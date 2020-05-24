@@ -6,7 +6,8 @@
   "commands": {
     "Compile contracts": "truffle compile",
     "Migrate contracts": "truffle migrate",
-    "Test contracts": "truffle test"
+    "Test contracts": "truffle test",
+    "Open testnet console": "truffle console --network testnet"
   },
   "hooks": {
     "post-unpack": ""
